@@ -7,7 +7,7 @@ This project utilizes an ESP32-CAM module to track hand gestures through a live 
 - OpenCV (cv2)
 - Numpy
 - Autopy
-- [Hand Tracking Module](https://github.com/in-explicable/gesture-tracking-using-esp32-cam) (Make sure to replace the link with the actual link to your hand tracking module)
+- ESP32 Cam
 
 ## Installation
 1. Clone this repository:
